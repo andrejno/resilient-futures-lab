@@ -2,7 +2,7 @@
 
 A website for responsible AI, digital safety and financial resilience. Free to use.
 
-<p><a class="button" href="index.html">Open the learning website</a></p>
+[Open the learning website](https://andrejno.github.io/resilient-futures-lab/)
 
 **Start locally:** unzip the package and open `index.html` in a browser. Keep the `assets` and `resources` folders beside it. You do not need Node, Python, an API key, an account system or a paid AI service to run the website.
 
