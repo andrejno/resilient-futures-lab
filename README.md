@@ -22,6 +22,17 @@ Official GitHub instructions, checked 7 October 2026:
 - **Learning passport:** completion records saved on the current browser, with a downloadable text record and a clear-progress control.
 - Responsive layouts, keyboard controls, reduced-motion support, chart tables, and select-menu alternatives to drag-and-drop.
 
+## Curriculum booklets
+
+Four illustrated booklets for learners aged 15–18 and 18–24, with simple explanations, practical examples and case studies for independent learning or guided workshops:
+
+1. [Everyday budgeting and smart spending](Curriculum%20Booklets/1_Everyday_budgeting_and_smart_spending.pdf)
+2. [Risk, numbers and misleading claims](Curriculum%20Booklets/2_Risk_numbers_and_misleading_claims.pdf)
+3. [Digital safety and scam prevention](Curriculum%20Booklets/3_Digital_safety_and_scam_prevention.pdf)
+4. [Responsible AI for learning and decisions](Curriculum%20Booklets/4_Responsible_AI_for_learning_and_decisions.pdf)
+
+All booklets are freely available as downloadable, printable PDFs.
+
 ## The activities
 
 | Responsible AI | Digital safety | Financial resilience |
