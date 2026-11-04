@@ -33,6 +33,11 @@ Four illustrated booklets for learners aged 15–18 and 18–24, with simple exp
 
 All booklets are freely available as downloadable, printable PDFs.
 
+## Slides and workshops
+
+- [First Job Workshop (PDF)](Slides%20and%20workshops/first-job-workshop.pdf)
+- [What Money Can Buy (PDF)](Slides%20and%20workshops/what-money-can-buy.pdf)
+
 ## The activities
 
 | Responsible AI | Digital safety | Financial resilience |
